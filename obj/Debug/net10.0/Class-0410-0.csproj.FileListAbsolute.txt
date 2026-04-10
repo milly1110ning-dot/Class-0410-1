@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\bin\Debug\net10.0\Class-0410-0.exe
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\bin\Debug\net10.0\Class-0410-0.deps.json
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\bin\Debug\net10.0\Class-0410-0.runtimeconfig.json
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\bin\Debug\net10.0\Class-0410-0.dll
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\bin\Debug\net10.0\Class-0410-0.pdb
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.dll
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\refint\Class-0410-0.dll
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.pdb
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\Class-0410-0.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Class-0410-1\Class-0410-0\obj\Debug\net10.0\ref\Class-0410-0.dll
